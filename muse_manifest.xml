@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.pickup.be" resolutions="1x" timestamp="1501422374372">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.pickup.be" resolutions="1x" timestamp="1501423138210">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="320400137" ref="index"/>
+    <file name="index.css" crc="177301568" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -11,5 +11,5 @@
     <file name="jquery.watch.js" crc="104486786" ref="index"/>
     <file name="require.js" crc="244322403" ref="index"/>
   </folder>
-  <file name="index.html" crc="4221157393" seo="true" mt="1501422248806" redirect="true"/>
+  <file name="index.html" crc="302930290" seo="true" mt="1501423122659" redirect="true"/>
 </manifest>
